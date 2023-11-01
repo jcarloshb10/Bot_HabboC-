@@ -1,0 +1,1 @@
+Código de bot para inicio de sesión en Habbo tomando credenciales desde un bloc de notas y además canjeando recompensas probando códigos automáticamente. 
